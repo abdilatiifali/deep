@@ -1,6 +1,8 @@
 # Installation
 
- git clone https://github.com/marlesson/recsys_autoencoders.git
+```
+  git clone https://github.com/marlesson/recsys_autoencoders.git
+```
 
  # Data Prepartion
  mlflow run . -e data_preparation -P min_interactions=5 -P test_size=0.2
