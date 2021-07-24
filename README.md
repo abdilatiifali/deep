@@ -26,7 +26,7 @@
  ```
   mlflow run . -e recommender \
           -P name='auto_enc' \
-          -P model_path='mlruns/0/<UID>/artifacts/auto_enc' \
+          -P model_path='mlruns/0/<UID>/artifacts/' \
           -P topn=10 \
           -P view=0 \
           -P user_id=25
