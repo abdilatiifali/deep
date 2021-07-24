@@ -1,7 +1,7 @@
 # Installation
 
 ```
-    git clone https://github.com/marlesson/recsys_autoencoders.git
+    git clone https://github.com/abdilatiifali/deep.git
 ```
 
  # Data Prepartion
