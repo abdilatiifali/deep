@@ -8,7 +8,7 @@
  ```
   mlflow run . -e data_preparation -P min_interactions=5 -P test_size=0.2
  ```
- # Deep AutoEncoder for Collaborative Filtering
+ # Deep AutoEncoder
  
  ```
     mlflow run . \
